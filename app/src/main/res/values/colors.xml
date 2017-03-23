@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    #454545 #3F51B5 #303F9F #FF4081
+   <color name="colorPrimary">#454545</color>
+    <color name="colorPrimaryDark">#454545</color>
+    <color name="colorAccent">#454545</color>
+
+<!--
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary_night">#3b3b3b</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark_night">#383838</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent_night">#a72b55</color>
+    <color name="textColor">#FF000000</color>
+    <color name="textColor_night">#FFFFFF</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="backgroundColor_night">#3b3b3b</color>-->
+
+
+</resources>

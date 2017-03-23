@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <item
+            android:id="@+id/action_clean"
+            android:orderInCategory="100"
+            android:title="清除缓存"
+            app:showAsAction="withText" />
+        <item
+            android:id="@+id/action_showcache"
+            android:orderInCategory="100"
+            android:title="show"
+            app:showAsAction="always" />
+
+        <item
+            android:id="@+id/action_input"
+            android:orderInCategory="100"
+            android:title="选页"
+            app:showAsAction="always" />
+
+        <item
+            android:id="@+id/action_settings"
+            android:orderInCategory="100"
+            android:title="上页"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/action_next"
+            android:orderInCategory="100"
+            android:title="下页"
+            app:showAsAction="always" />
+
+
+
+</menu>
